@@ -9,4 +9,14 @@ html {
   margin-left: 10px;
 }
 
-.nav { 
+header {
+  position: fixed;
+  width: 100%;
+  border-bottom:1px solid seashell;
+  min-height: 69px;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+  background-color: black;
+  opacity: 1;
+}
